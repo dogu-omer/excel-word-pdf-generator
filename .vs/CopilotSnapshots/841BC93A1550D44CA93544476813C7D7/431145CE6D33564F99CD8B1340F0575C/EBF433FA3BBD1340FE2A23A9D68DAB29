@@ -1,4 +1,0 @@
-﻿import pandas
-import docx
-import win32com.client
-print("OK")

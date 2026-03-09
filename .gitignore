@@ -1,0 +1,12 @@
+.vs/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.suo
+*.user
+*.log
+.env
+.venv/
+venv/
+cikti/
